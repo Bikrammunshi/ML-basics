@@ -1,0 +1,9 @@
+------------------OYO FILES--------------- 
+1Room 1:Name 	1
+Sex 	1
+Age 	1
+Contact Number 	1
+
+
+
+Fees for room: 0 is 500
